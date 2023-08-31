@@ -1,4 +1,4 @@
-# eMOJI_pROJECT
+# eMOJI_pROJECT  https://tejaskarde21.github.io/eMOJI_pROJECT/eMOJI_pROJECT/emoji.html
 
 Display Submit Button: Inside searchEmoji, there is a conditional check to determine if the value of the searchField input is not empty (searchField.value !== ""). If it's not empty, it sets the CSS display property of the submitButton to "flex" to make it visible. If it's empty, it hides the submitButton by setting its display property to "none."
 
